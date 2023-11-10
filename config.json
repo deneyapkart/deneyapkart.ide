@@ -17,6 +17,10 @@
       "url": "https://raw.githubusercontent.com/pxsty0/agent.deneyapkart/main/examples/blank.ino"
     },
     {
+      "name": "Deneyap OLED Ekran Merhaba Dünya",
+      "url": "https://raw.githubusercontent.com/deneyapkart/deneyap-oled-ekran-arduino-library/master/examples/MerhabaDunya/MerhabaDunya.ino"
+    },
+    {
       "name": "RGB Yak Söndür",
       "url": "https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/GPIO/RgbYakSondur/RgbYakSondur.ino"
     },
@@ -37,5 +41,5 @@
       "url": "https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/KutuAcilisUygulamalari/UzaktanRgbLedKontrol/UzaktanRgbLedKontrol.ino"
     }
   ],
-  "author": "mustafa kok"
+  "author": "https://github.com/pxsty0"
 }
