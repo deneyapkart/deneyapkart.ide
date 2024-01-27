@@ -26,4 +26,5 @@
 - Logları Deneyap Kart Agent & IDE Teknik Ekibine göndererek destek sağlayabilir veya hataların analiz edilerek çözülmesine yardımcı olabilirsiniz.
 - Geribildirim formunu kullanarak yaşadığınız hataları veya önerilerinizi bize bildirebilir, Deneyap Kart Agent & IDE deneyiminizi paylaşabilirsiniz.
 
+- Deneyap Kart IDE'yi açabilirsiniz. Deneyap Kart IDE kullanımına [bu linkten ulaşabilirsiniz](https://github.com/deneyapkart/deneyapkart.agent.ide/blob/master/docs/ideUsage.md)
 ![image](https://i.imgur.com/H03d61I.png)
