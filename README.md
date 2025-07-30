@@ -4,7 +4,7 @@
 
 ### 1. Deneyap Kart IDE Kurulumu
 
-* En son sürümü [buradan](broken-reference) indirin.
+* En son sürümü [buradan](https://mth.tc/DeneyapKartIDE) indirin.
 * İndirdiğiniz setup dosyasını çalıştırarak Deneyap Kart IDE'yi kurun. ![image](https://i.imgur.com/cG1cGNn.png)
 
 ### 2. Deneyap Kart IDE'ı Çalıştırma
@@ -14,7 +14,7 @@
 ### 3. Güncelleme İşlemi
 
 * Eğer uygulamayı başlatırken "Deneyap Kart IDE sürümü güncel değil. Lütfen uygulamayı güncelleyin ve yeniden başlatın." mesajı alıyorsanız, sürümünüz güncelliğini yitirmiş veya güncel değildir.
-* Güncelleme işlemi için, programı kaldırın ve en son sürümü [buradan](broken-reference) indirip tekrar kurun.
+* Güncelleme işlemi için, programı kaldırın ve en son sürümü [buradan](https://mth.tc/DeneyapKartIDE) indirip tekrar kurun.
 * Uygulamayı güncelledikten sonra tekrar başlatın.
 
 ![image](https://i.imgur.com/5kL9acP.png)
